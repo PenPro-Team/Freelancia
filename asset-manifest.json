@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Freelancia/static/css/main.f855e6bc.css",
+    "main.js": "/Freelancia/static/js/main.ac0d3451.js",
+    "static/js/453.fda1954c.chunk.js": "/Freelancia/static/js/453.fda1954c.chunk.js",
+    "static/media/logo.svg": "/Freelancia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Freelancia/index.html",
+    "main.f855e6bc.css.map": "/Freelancia/static/css/main.f855e6bc.css.map",
+    "main.ac0d3451.js.map": "/Freelancia/static/js/main.ac0d3451.js.map",
+    "453.fda1954c.chunk.js.map": "/Freelancia/static/js/453.fda1954c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ac0d3451.js"
+  ]
+}
